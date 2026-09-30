@@ -1,4 +1,4 @@
-# 🛸 FleetSentinel // Anti-Gravity Fleet Management & Driver Safety OS
+# 🛸 FleetSentinel // Fleet Management & Driver Safety OS
 
 An enterprise-grade commercial fleet safety and real-time telematics platform featuring a **3-Layer Architecture** (Streamlit UI/UX, Atomic JSON Database, and FastAPI REST Backend) and distributed **multi-laptop cockpit/dispatcher deployment**.
 
