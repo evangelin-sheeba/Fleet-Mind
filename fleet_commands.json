@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "timestamp": "2026-09-30T18:41:45.558258+00:00",
+    "vehicle_id": "TRK-001",
+    "command_type": "MANDATORY_SAFE_STOP",
+    "message": "Immediate stop required at next corridor rest area",
+    "status": "DISPATCHED"
+  },
+  {
+    "id": 2,
+    "timestamp": "2026-09-30T18:42:19.763823+00:00",
+    "vehicle_id": "TRK-001",
+    "command_type": "MANDATORY_SAFE_STOP",
+    "message": "Immediate stop required at next corridor rest area",
+    "status": "DISPATCHED"
+  },
+  {
+    "id": 3,
+    "timestamp": "2026-09-30T18:49:24.966735+00:00",
+    "vehicle_id": "TRK-001",
+    "command_type": "AUDIO_ADVISORY",
+    "message": "Driver attention check",
+    "status": "DISPATCHED"
+  },
+  {
+    "id": 4,
+    "timestamp": "2026-09-30T18:50:28.333735+00:00",
+    "vehicle_id": "TRK-001",
+    "command_type": "MANDATORY_SAFE_STOP",
+    "message": "Immediate stop required at next corridor rest area",
+    "status": "DISPATCHED"
+  },
+  {
+    "id": 5,
+    "timestamp": "2026-09-30T19:12:52.380818+00:00",
+    "vehicle_id": "TRK-001",
+    "command_type": "MANDATORY_SAFE_STOP",
+    "message": "Immediate stop required at next corridor rest area",
+    "status": "DISPATCHED"
+  }
+]

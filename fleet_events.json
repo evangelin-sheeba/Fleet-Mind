@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "_epoch": 1790793705.512342,
+    "timestamp": "2026-09-30T18:41:45.512342+00:00",
+    "driver_id": "D001",
+    "vehicle_id": "TRK-001",
+    "event_type": "microsleep",
+    "severity": "CRITICAL",
+    "risk_score": 85.0,
+    "speed_kmh": 68.0,
+    "details": "Operator eyes closed for 2.4 seconds while traveling at 68 km/h"
+  },
+  {
+    "id": 2,
+    "_epoch": 1790793739.6998208,
+    "timestamp": "2026-09-30T18:42:19.699820+00:00",
+    "driver_id": "D001",
+    "vehicle_id": "TRK-001",
+    "event_type": "microsleep",
+    "severity": "CRITICAL",
+    "risk_score": 85.0,
+    "speed_kmh": 68.0,
+    "details": "Operator eyes closed for 2.4 seconds while traveling at 68 km/h"
+  },
+  {
+    "id": 3,
+    "_epoch": 1790794164.918373,
+    "timestamp": "2026-09-30T18:49:24.918373+00:00",
+    "driver_id": "D001",
+    "vehicle_id": "TRK-001",
+    "event_type": "yawn",
+    "severity": "WARNING",
+    "risk_score": 45.0,
+    "speed_kmh": 70.0,
+    "details": "Driver yawned twice in 30 seconds"
+  },
+  {
+    "id": 4,
+    "_epoch": 1790794228.2711296,
+    "timestamp": "2026-09-30T18:50:28.271129+00:00",
+    "driver_id": "D001",
+    "vehicle_id": "TRK-001",
+    "event_type": "microsleep",
+    "severity": "CRITICAL",
+    "risk_score": 85.0,
+    "speed_kmh": 68.0,
+    "details": "Operator eyes closed for 2.4 seconds while traveling at 68 km/h"
+  },
+  {
+    "id": 5,
+    "_epoch": 1790795572.330024,
+    "timestamp": "2026-09-30T19:12:52.330024+00:00",
+    "driver_id": "D001",
+    "vehicle_id": "TRK-001",
+    "event_type": "microsleep",
+    "severity": "CRITICAL",
+    "risk_score": 85.0,
+    "speed_kmh": 68.0,
+    "details": "Operator eyes closed for 2.4 seconds while traveling at 68 km/h"
+  },
+  {
+    "id": 6,
+    "_epoch": 1790797661.6112676,
+    "timestamp": "2026-09-30T19:47:41.611267+00:00",
+    "driver_id": "D001",
+    "vehicle_id": "TRK-001",
+    "event_type": "microsleep",
+    "severity": "CRITICAL",
+    "risk_score": 79.2,
+    "speed_kmh": 68.3,
+    "details": "Microsleep episode detected (2.2s eyes closed)"
+  },
+  {
+    "id": 7,
+    "_epoch": 1790797670.7995996,
+    "timestamp": "2026-09-30T19:47:50.799599+00:00",
+    "driver_id": "D001",
+    "vehicle_id": "TRK-001",
+    "event_type": "microsleep",
+    "severity": "CRITICAL",
+    "risk_score": 79.0,
+    "speed_kmh": 68.0,
+    "details": "Microsleep episode detected (2.5s eyes closed)"
+  },
+  {
+    "id": 8,
+    "_epoch": 1790797673.8824291,
+    "timestamp": "2026-09-30T19:47:53.882429+00:00",
+    "driver_id": "D001",
+    "vehicle_id": "TRK-001",
+    "event_type": "microsleep",
+    "severity": "CRITICAL",
+    "risk_score": 79.0,
+    "speed_kmh": 68.1,
+    "details": "Microsleep episode detected (5.6s eyes closed)"
+  }
+]
