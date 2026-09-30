@@ -1,0 +1,126 @@
+{
+  "version": "2.4.0",
+  "last_sync_timestamp": "2026-09-30T19:48:11.556513Z",
+  "vehicle": {
+    "id": "TN 58 AA 4920",
+    "vin": "MB1T2H4A0NP492011",
+    "make_model": "Ashok Leyland 4220 HG (14-Wheeler Heavy Commercial Hauler)",
+    "engine_status": "RUNNING",
+    "status": "IN_TRANSIT",
+    "fuel_battery_percent": 78.5,
+    "engine_temp_c": 88.5,
+    "tire_pressure_psi": 115.0,
+    "odometer_km": 184418.6
+  },
+  "driver": {
+    "name": "Arun Kumar (Operator #104)",
+    "license": "TN-58-2016-0049281 (Heavy Commercial Freight CDL)",
+    "hos_driving_hours": 5.2,
+    "hos_max_hours": 10.0,
+    "safety_score": 96.4,
+    "safety_grade": "A+",
+    "medical_cert_valid": true
+  },
+  "trip": {
+    "route_id": "TN-MDU-MAA-NH45",
+    "origin": "Madurai Mattuthavani Freight Terminal",
+    "destination": "Chennai Madhavaram Central Logistics Hub",
+    "cargo_description": "Automotive Spares & Precision Castings (18.5 MT)",
+    "cargo_temp_c": 26.8,
+    "total_route_km": 462.0,
+    "distance_covered_km": 218.6,
+    "remaining_km": 243.4,
+    "eta_minutes": 214.8,
+    "progress_percent": 47.3
+  },
+  "gps": {
+    "latitude": 11.30233,
+    "longitude": 78.94304,
+    "heading_deg": 41.2,
+    "route_waypoints": [
+      [
+        9.9325,
+        78.1633
+      ],
+      [
+        10.0336,
+        78.337
+      ],
+      [
+        10.3673,
+        78.48
+      ],
+      [
+        10.6033,
+        78.5436
+      ],
+      [
+        10.7905,
+        78.7047
+      ],
+      [
+        10.9238,
+        78.7397
+      ],
+      [
+        11.2335,
+        78.8817
+      ],
+      [
+        11.6917,
+        79.29
+      ],
+      [
+        11.9401,
+        79.4861
+      ],
+      [
+        12.2333,
+        79.65
+      ],
+      [
+        12.4333,
+        79.8333
+      ],
+      [
+        12.6819,
+        79.9888
+      ],
+      [
+        12.9249,
+        80.1
+      ],
+      [
+        13.0827,
+        80.2707
+      ]
+    ]
+  },
+  "telematics": {
+    "speed_kmh": 68.0,
+    "acceleration_kmh_s": -0.8,
+    "is_overspeeding": false,
+    "is_hard_braking": false,
+    "total_hard_brakes": 0,
+    "throttle_pct": 40.0,
+    "brake_pct": 0.0,
+    "rpm": 1450,
+    "gear": 7
+  },
+  "biometrics": {
+    "ear": 0.32933409017476567,
+    "mar": 0.004597086993463778,
+    "microsleep_detected": false,
+    "eye_closed_seconds": 0.0,
+    "is_yawning": false,
+    "total_yawns": 0
+  },
+  "intervention": {
+    "risk_score": 4.0,
+    "risk_level": "NOMINAL",
+    "intervention_status": "MONITORING",
+    "escalation_flag": false,
+    "driver_action": "Nominal telemetry monitoring",
+    "seconds_in_alert": 0.0
+  }
+}
